@@ -1,0 +1,4 @@
+...file C:\Users\asael\OneDrive\Escritorio\Arq\gestor-de-datos\result\csv.json processed
+...file C:\Users\asael\OneDrive\Escritorio\Arq\gestor-de-datos\result\xml.json processed
+...file C:\Users\asael\OneDrive\Escritorio\Arq\gestor-de-datos\result\htm.json processed
+...file C:\Users\asael\OneDrive\Escritorio\Arq\gestor-de-datos\result\txt.json processed
